@@ -17,4 +17,5 @@
 2. 조성 데이터를 불러와 전처리
 3. 모델 학습 및 성능 평가
 
+Add Open in Colab badge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ginktepal/phase-prediction-nn/blob/main/notebooks/phase_nn_classification.ipynb)
